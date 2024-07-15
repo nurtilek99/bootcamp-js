@@ -13,3 +13,10 @@
     border: 2px solid black;
     
 }
+.box1{
+    width: 600px;
+    height: 400px;
+    background-color: rgb(0, 255, 179);
+    border-radius: 8px;
+    box-shadow: 0 4px 15px red; 
+}
